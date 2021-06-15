@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Holberton School" | tee \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+cut "Holberton School" \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
