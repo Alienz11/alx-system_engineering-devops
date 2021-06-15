@@ -1,2 +1,2 @@
 #!/bin/bash
-find . "./*" -name -type d f -empty | ls -1 a R N l
+find . -empty | rev | cut -d '/' -f 1 | rev
