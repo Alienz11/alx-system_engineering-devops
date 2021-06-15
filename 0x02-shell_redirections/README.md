@@ -1,1 +1,1 @@
-**This exercise is compulsory for all ALX students**
+**This project is compulsory for allALX students**
