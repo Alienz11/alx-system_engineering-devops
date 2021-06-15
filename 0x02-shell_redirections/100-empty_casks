@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name -type f d -empty | ls -1aRl
+find . "./*" -name -type d -empty; find . "*" -name -type  -empty | ls -1 a R N l
