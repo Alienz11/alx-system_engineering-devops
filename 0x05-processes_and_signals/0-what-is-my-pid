@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script prints it's own PID.
+# echo $$ or echo $BASHPID would give the same result of this task.
+echo $$
