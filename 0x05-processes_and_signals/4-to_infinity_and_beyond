@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script that displays a list of currently running processes.
+i="To infinity and beyond"
+j=0
+while [[ 1 ]]; do
+    echo "$i"
+    j="$(( j + 1 ))"
+done   
