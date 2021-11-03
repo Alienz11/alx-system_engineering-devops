@@ -1,4 +1,4 @@
-##**This folder/directory displays all the under-pinnings of Regular Expression in System Devops**
+**This folder/directory displays all the under-pinnings of Regular Expression in System Devops**
 
 # Regular Expression
 
