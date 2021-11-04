@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script that only shows listening sockets, and PIDs of each listening sockets.
+netstat -lp
