@@ -1,0 +1,1 @@
+**This project gives a detailed explanation of what happens when a domain name is searched on the web broswer.**
