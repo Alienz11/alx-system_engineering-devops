@@ -46,6 +46,6 @@ frontend alienz11-alx.tech-https-frontend
 
 backend alienz11-alx.tech-backend
 	balance roundrobin
-	server web01 34.139.208.124:80 check
-	server web02 34.239.164.50:80 check
+	server web01 3.236.54.227:80 check
+	server web02 35.168.36.12:80 check
 #--alienz11-alx.tech-params-end--
