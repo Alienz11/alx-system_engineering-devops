@@ -2,7 +2,7 @@
 --
 -- Host: localhost    Database: tyrell_corp
 -- ------------------------------------------------------
--- Server version       5.7.37-log
+-- Server version	5.7.37-log
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -23,8 +23,8 @@ DROP TABLE IF EXISTS `nexus6`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `nexus6` (
-  `id` int(6) DEFAULT NULL,
-  `name` varchar(30) DEFAULT NULL
+  `id` int(11) DEFAULT NULL,
+  `name` varchar(20) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -47,4 +47,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-01-30 23:50:00
+-- Dump completed on 2022-03-08 21:21:27
